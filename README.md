@@ -1,6 +1,6 @@
 # caase_app
 
-A new Flutter project.
+Proyecto de Nivelación Misión TIC, Control de Asistencia a Sesiones.
 
 ## Getting Started
 
