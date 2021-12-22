@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819353829633",
+    "project_id": "caaseapp",
+    "storage_bucket": "caaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819353829633:android:2d34587d35184f3c56db00",
+        "android_client_info": {
+          "package_name": "com.example.caase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819353829633-6vil1do9lg41vbf2mlbet885793etv9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzISF3xsm2kT2sR6gtZcdVj8vtZ_v9eUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819353829633-6vil1do9lg41vbf2mlbet885793etv9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
